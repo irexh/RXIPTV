@@ -1,984 +1,291 @@
 #EXTM3U
-#EXTINF:-1,-=-=-= [ ALBANIA  /  SHQIP ] =-=-=-
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/139.m3u8
+#EXTINF:-1,Al:ABC News 24/7
+http://linux-app.tv:6204/60400655844704/32991126026152/9128
 
-#EXTINF:-1,AL: Top Channel HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1.m3u8
+#EXTINF:-1,Al:Bang Bang
+http://linux-app.tv:6204/60400655844704/32991126026152/9127
 
-#EXTINF:-1,AL: Klan FHD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/14.m3u8
+#EXTINF:-1,Al:BBF Music TV
+http://linux-app.tv:6204/60400655844704/32991126026152/9126
 
-#EXTINF:-1,AL: Klan HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/140.m3u8
+#EXTINF:-1,Al:Cufo
+http://linux-app.tv:6204/60400655844704/32991126026152/9125
 
-#EXTINF:-1,AL: Klan Plus HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/917.m3u8
+#EXTINF:-1,Al:Digi Gold
+http://linux-app.tv:6204/60400655844704/32991126026152/9124
 
-#EXTINF:-1,AL: Klan Makedonija
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/3617.m3u8
+#EXTINF:-1,Al:Explorer History
+http://linux-app.tv:6204/60400655844704/32991126026152/9122
 
-#EXTINF:-1,AL: Klan Kosova
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/98.m3u8
+#EXTINF:-1,Al:Explorer Shkence
+http://linux-app.tv:6204/60400655844704/32991126026152/9121
 
-#EXTINF:-1,AL: TV Dukagjini
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1827.m3u8
+#EXTINF:-1,Al:ExplorerNatyra
+http://linux-app.tv:6204/60400655844704/32991126026152/9120
 
-#EXTINF:-1,AL: T7
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2914.m3u8
+#EXTINF:-1,Al:Film Autor
+http://linux-app.tv:6204/60400655844704/32991126026152/9118
 
-#EXTINF:-1,AL: RTK 1
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/58.m3u8
+#EXTINF:-1,Al:Film Drama
+http://linux-app.tv:6204/60400655844704/32991126026152/9117
 
-#EXTINF:-1,AL: RTK 2
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1696.m3u8
+#EXTINF:-1,Al:Film DY HD
+http://linux-app.tv:6204/60400655844704/32991126026152/9116
 
-#EXTINF:-1,AL: RTK 3
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2733.m3u8
+#EXTINF:-1,Al:Film Gold 1
+http://linux-app.tv:6204/60400655844704/32991126026152/9115
 
-#EXTINF:-1,AL: RTK 4
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2734.m3u8
+#EXTINF:-1,Al:Film Hits
+http://linux-app.tv:6204/60400655844704/32991126026152/9114
 
-#EXTINF:-1,AL: Opoja TV HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2520.m3u8
+#EXTINF:-1,Al:Film Komedi
+http://linux-app.tv:6204/60400655844704/32991126026152/9113
 
-#EXTINF:-1,AL: TVSH Tokesor
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/20.m3u8
+#EXTINF:-1,Al:Film NJE HD
+http://linux-app.tv:6204/60400655844704/32991126026152/9112
 
-#EXTINF:-1,AL: RTSH 1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/915.m3u8
+#EXTINF:-1,Al:Film Thriller
+http://linux-app.tv:6204/60400655844704/32991126026152/9111
 
-#EXTINF:-1,AL: RTSH 2
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1647.m3u8
+#EXTINF:-1,Al:Folk Plus
+http://linux-app.tv:6204/60400655844704/32991126026152/9110
 
-#EXTINF:-1,AL: RTSH Film
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/916.m3u8
+#EXTINF:-1,Al:Fox
+http://linux-app.tv:6204/60400655844704/32991126026152/9108
 
-#EXTINF:-1,AL: RTSH Shqip
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/919.m3u8
+#EXTINF:-1,Al:Fox Crime
+http://linux-app.tv:6204/60400655844704/32991126026152/9107
 
-#EXTINF:-1,AL: Vizion+ HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/80.m3u8
+#EXTINF:-1,Al:Fox Life
+http://linux-app.tv:6204/60400655844704/32991126026152/9106
 
-#EXTINF:-1,AL: Shqip Cinema
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2218.m3u8
+#EXTINF:-1,Al:Fox Movies
+http://linux-app.tv:6204/60400655844704/32991126026152/9105
 
-#EXTINF:-1,AL: KTV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/83.m3u8
+#EXTINF:-1,Al:Jolly HD
+http://linux-app.tv:6204/60400655844704/32991126026152/9104
 
-#EXTINF:-1,AL: First Channel
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/587.m3u8
+#EXTINF:-1,Al:Klan HD
+http://linux-app.tv:6204/60400655844704/32991126026152/9101
 
-#EXTINF:-1,AL: RTV 21 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/69.m3u8
+#EXTINF:-1,Al:KTV
+http://linux-app.tv:6204/60400655844704/32991126026152/9100
 
-#EXTINF:-1,AL: RTV 21 Macedonia HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/112.m3u8
+#EXTINF:-1,Al:Living HD
+http://linux-app.tv:6204/60400655844704/32991126026152/9099
 
-#EXTINF:-1,AL: RTV 21 Plus HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1694.m3u8
+#EXTINF:-1,Al:My Music
+http://linux-app.tv:6204/60400655844704/32991126026152/9098
 
-#EXTINF:-1,AL: RTV 21 Mix
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2731.m3u8
+#EXTINF:-1,Al:News 24
+http://linux-app.tv:6204/60400655844704/32991126026152/9097
 
-#EXTINF:-1,AL: ART Channel
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2215.m3u8
+#EXTINF:-1,Al:RTK 3
+http://linux-app.tv:6204/60400655844704/32991126026152/9096
 
-#EXTINF:-1,AL: TV Art
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/79.m3u8
+#EXTINF:-1,Al:RTK 4
+http://linux-app.tv:6204/60400655844704/32991126026152/9095
 
-#EXTINF:-1,AL: Kanal D Drama
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2732.m3u8
+#EXTINF:-1,Al:RTV 21
+http://linux-app.tv:6204/60400655844704/32991126026152/9094
 
-#EXTINF:-1,AL: A2 CNN
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/918.m3u8
+#EXTINF:-1,Al:RTV 21 HD Plus
+http://linux-app.tv:6204/60400655844704/32991126026152/9091
 
-#EXTINF:-1,AL: Top News
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/3.m3u8
+#EXTINF:-1,Al:T  HD
+http://linux-app.tv:6204/60400655844704/32991126026152/9082
 
-#EXTINF:-1,AL: News 24
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/67.m3u8
+#EXTINF:-1,Al:TiranaTV
+http://linux-app.tv:6204/60400655844704/32991126026152/9081
 
-#EXTINF:-1,AL: Kanali 7
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/522.m3u8
+#EXTINF:-1,Al:Top Channel HD
+http://linux-app.tv:6204/60400655844704/32991126026152/9080
 
-#EXTINF:-1,AL: ORA News
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/22.m3u8
+#EXTINF:-1,Al:Top News
+http://linux-app.tv:6204/60400655844704/32991126026152/9079
 
-#EXTINF:-1,AL: Euronews
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2216.m3u8
+#EXTINF:-1,Al:TV Koha
+http://linux-app.tv:6204/60400655844704/32991126026152/9063
 
-#EXTINF:-1,AL: ABC News
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/21.m3u8
+#EXTINF:-1,Al:X PREMIUM 1 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29068
 
-#EXTINF:-1,AL: Report TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/23.m3u8
+#EXTINF:-1,Al:X PREMIUM 2 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29069
 
-#EXTINF:-1,AL: Arta News HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/3619.m3u8
+#EXTINF:-1,Al:X PREMIUM 3 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29070
 
-#EXTINF:-1,AL: Globi TV Gostivar
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2350.m3u8
+#EXTINF:-1,Al:X ROMANCE HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29072
 
-#EXTINF:-1,AL: RTSH 3
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2740.m3u8
+#EXTINF:-1,Al:X SCI-FI HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29073
 
-#EXTINF:-1,AL: Sharri TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2352.m3u8
+#EXTINF:-1,Al:X THRILLER HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29074
 
-#EXTINF:-1,AL: Tetova TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2351.m3u8
+#EXTINF:-1,Al:X WESTERNE HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29075
 
-#EXTINF:-1,AL: Bang Bang HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2.m3u8
+#EXTINF:-1,Al:X ACTION HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29076
 
-#EXTINF:-1,AL: Cufo
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/5.m3u8
+#EXTINF:-1,Al:X COMEDY HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29077
 
-#EXTINF:-1,AL: Junior
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/6.m3u8
+#EXTINF:-1,Al:X DARK HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29078
 
-#EXTINF:-1,AL: Tring Tring
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/113.m3u8
+#EXTINF:-1,Al:X DRAMA HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29079
 
-#EXTINF:-1,AL: Tring Kids
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/799.m3u8
+#EXTINF:-1,Al:X FAMILY HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29080
 
-#EXTINF:-1,AL: Tring International
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/920.m3u8
+#EXTINF:-1,Al:X FILMA 24 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29081
 
-#EXTINF:-1,AL: Baby TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/840.m3u8
+#EXTINF:-1,Al:X HUMOR HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29082
 
-#EXTINF:-1,AL: RTV 21 Junior
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2737.m3u8
+#EXTINF:-1,Al:X HISTORI HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29083
 
-#EXTINF:-1,AL: Masha and the Bear
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/3618.m3u8
+#EXTINF:-1,Al:X NATYRA HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29084
 
-#EXTINF:-1,AL: EXP Histori
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/8.m3u8
+#EXTINF:-1,Al:ART Kino 1 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29085
 
-#EXTINF:-1,AL: EXP Natyra
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/9.m3u8
+#EXTINF:-1,Al:ART Kino 2 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29086
 
-#EXTINF:-1,AL: EXP Shkence
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/7.m3u8
+#EXTINF:-1,Al:ART Kino 3 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29087
 
-#EXTINF:-1,AL: Discovery Channel HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/583.m3u8
+#EXTINF:-1,Al:TV Plisi HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29088
 
-#EXTINF:-1,AL: National Geographic HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/909.m3u8
+#EXTINF:-1,Al:TV Plisi Qifteli HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29090
 
-#EXTINF:-1,AL: Travel Channel
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/801.m3u8
+#EXTINF:-1,Al:TV Plisi Action HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29091
 
-#EXTINF:-1,AL: Fine Living
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2078.m3u8
+#EXTINF:-1,Al:TV Plisi Comedy HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29092
 
-#EXTINF:-1,AL: 24 Kitchen
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2217.m3u8
+#EXTINF:-1,Al:TV Plisi Thriller HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29093
 
-#EXTINF:-1,AL: Living HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/181.m3u8
+#EXTINF:-1,Al:TV Plisi Fantasy HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29094
 
-#EXTINF:-1,AL: Tring Planet
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/111.m3u8
+#EXTINF:-1,Al:TV Plisi Horror HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29095
 
-#EXTINF:-1,AL: Tring World
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/109.m3u8
+#EXTINF:-1,Al:Euro Film 1 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29096
 
-#EXTINF:-1,AL: Tring History
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/65.m3u8
+#EXTINF:-1,Al:Euro Film 2 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29097
 
-#EXTINF:-1,AL: RTV Syry Vizion
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1891.m3u8
+#EXTINF:-1,Al:Euro Film 3 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29098
 
-#EXTINF:-1,AL: Melody
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/100.m3u8
+#EXTINF:-1,Al:Euro Film 4 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29099
 
-#EXTINF:-1,AL: BBF
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/70.m3u8
+#EXTINF:-1,Al:DIGI GOLD 2 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29100
 
-#EXTINF:-1,AL: Shqip Mimi
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2075.m3u8
+#EXTINF:-1,Al:DIGI GOLD 3 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29101
 
-#EXTINF:-1,AL: Supersonic TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/68.m3u8
+#EXTINF:-1,Al:DIGI GOLD 4 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29102
 
-#EXTINF:-1,AL: Club TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/72.m3u8
+#EXTINF:-1,Al:RTK 1
+http://linux-app.tv:6204/60400655844704/32991126026152/29115
 
-#EXTINF:-1,AL: Tirana TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/71.m3u8
+#EXTINF:-1,Al:RTK 2
+http://linux-app.tv:6204/60400655844704/32991126026152/29116
 
-#EXTINF:-1,AL: Folk+
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/108.m3u8
+#EXTINF:-1,Al:RTSH HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29117
 
-#EXTINF:-1,AL: Elrodi
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1805.m3u8
+#EXTINF:-1,Al:RTSH 1 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29118
 
-#EXTINF:-1,AL: RTV 21 Popullore
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/221.m3u8
+#EXTINF:-1,Al:RTSH 2 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29119
 
-#EXTINF:-1,AL: Stupcat
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4786.m3u8
+#EXTINF:-1,Al:RTSH 3
+http://linux-app.tv:6204/60400655844704/32991126026152/29120
 
-#EXTINF:-1,AL: My Music
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4.m3u8
+#EXTINF:-1,Al:RTSH Muzike
+http://linux-app.tv:6204/60400655844704/32991126026152/29121
 
-#EXTINF:-1,AL: Topestrada TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/843.m3u8
+#EXTINF:-1,Al:RTSH Shqip
+http://linux-app.tv:6204/60400655844704/32991126026152/29122
 
-#EXTINF:-1,AL: Click TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/893.m3u8
+#EXTINF:-1,Al:RTSH Gjirokastra
+http://linux-app.tv:6204/60400655844704/32991126026152/29124
 
-#EXTINF:-1,AL: Muse
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/869.m3u8
+#EXTINF:-1,Al:RTSH 24 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/29125
 
-#EXTINF:-1,AL: Rrokum TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/141.m3u8
+#EXTINF:-1,Al:RTSH Plus
+http://linux-app.tv:6204/60400655844704/32991126026152/29126
 
-#EXTINF:-1,AL: Family HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/66.m3u8
+#EXTINF:-1,Al:Vizion Plus
+http://linux-app.tv:6204/60400655844704/32991126026152/9061
 
-#EXTINF:-1,AL: Jolly HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/104.m3u8
+#EXTINF:-1,Al:K SPORT 1 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33299
 
-#EXTINF:-1,AL: T HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/142.m3u8
+#EXTINF:-1,Al:K SPORT 2 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33301
 
-#EXTINF:-1,AL: Tring Shqip
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/107.m3u8
+#EXTINF:-1,Al:K SPORT 3 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33302
 
-#EXTINF:-1,AL: 3 Plus
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/531.m3u8
+#EXTINF:-1,Al:K SPORT 4 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33303
 
-#EXTINF:-1,AL: FOX
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/586.m3u8
+#EXTINF:-1,Al:ART SPORT 1 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33304
 
-#EXTINF:-1,AL: FOX Life
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/585.m3u8
+#EXTINF:-1,Al:ART Sport 2 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33305
 
-#EXTINF:-1,AL: EuroFilm
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2726.m3u8
+#EXTINF:-1,Al:ART Sport 3 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33306
 
-#EXTINF:-1,AL: Stinet HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/99.m3u8
+#EXTINF:-1,Al:Super Sport 1 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33592
 
-#EXTINF:-1,AL: Film Nje HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/73.m3u8
+#EXTINF:-1,Al:Super Sport 4 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33309
 
-#EXTINF:-1,AL: Film Dy HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/81.m3u8
+#EXTINF:-1,Al:Super Sport 5 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33310
 
-#EXTINF:-1,AL: Film Aksion
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/25.m3u8
+#EXTINF:-1,Al:Super Sport 2 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33593
 
-#EXTINF:-1,AL: Film Komedi
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/26.m3u8
+#EXTINF:-1,Al:Super Sport 3 HD
+http://linux-app.tv:6204/60400655844704/32991126026152/33594
 
-#EXTINF:-1,AL: Film Autor
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/75.m3u8
+#EXTINF:-1,Al:Super Sport 4
+http://linux-app.tv:6204/60400655844704/32991126026152/33595
 
-#EXTINF:-1,AL: Film Drame
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/76.m3u8
+#EXTINF:-1,Al:Supersonic TV 1
+http://linux-app.tv:6204/60400655844704/32991126026152/9083
 
-#EXTINF:-1,AL: Film Hits
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/77.m3u8
+#EXTINF:-1,Al:Super Sport Kosova 1
+http://linux-app.tv:6204/60400655844704/32991126026152/33307
 
-#EXTINF:-1,AL: Film Thriller
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/82.m3u8
-
-#EXTINF:-1,AL: Tring Action
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/3222.m3u8
-
-#EXTINF:-1,AL: Tring Fantasy
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/64.m3u8
-
-#EXTINF:-1,AL: Tring Comedy
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/168.m3u8
-
-#EXTINF:-1,AL: Digi Gold HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/921.m3u8
-
-#EXTINF:-1,AL: Digi Gold 1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2098.m3u8
-
-#EXTINF:-1,AL: Digi Gold 2 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2099.m3u8
-
-#EXTINF:-1,AL: Digi Gold 3 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2735.m3u8
-
-#EXTINF:-1,AL: Digi Gold 4 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2736.m3u8
-
-#EXTINF:-1,AL: Kino Premium 1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2222.m3u8
-
-#EXTINF:-1,AL: Kino Premium 2 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2223.m3u8
-
-#EXTINF:-1,AL: Kino Premium 3 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2738.m3u8
-
-#EXTINF:-1,AL: Kino Premium 4 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2739.m3u8
-
-#EXTINF:-1,AL: X Comedy HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2221.m3u8
-
-#EXTINF:-1,AL: ALB Humor 1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2219.m3u8
-
-#EXTINF:-1,AL: ALB Swiss
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/842.m3u8
-
-#EXTINF:-1,AL: ALB Action
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2220.m3u8
-
-#EXTINF:-1,AL: Shqip Aksion
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4782.m3u8
-
-#EXTINF:-1,AL: Shqip Humor
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4784.m3u8
-
-#EXTINF:-1,AL: Shqip Komedi
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4783.m3u8
-
-#EXTINF:-1,AL: Sky Max
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4785.m3u8
-
-#EXTINF:-1,AL: Tring Smile
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/227.m3u8
-
-#EXTINF:-1,AL: Tring Life
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/110.m3u8
-
-#EXTINF:-1,AL: Tring Super
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/228.m3u8
-
-#EXTINF:-1,-=-=-= [ ITALY  /  ITALIA ] =-=-=-
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/238.m3u8
-
-#EXTINF:-1,IT: Rai 2 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/244.m3u8
-
-#EXTINF:-1,IT: Rai 3 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/248.m3u8
-
-#EXTINF:-1,IT: RAI 4 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1507.m3u8
-
-#EXTINF:-1,IT: Rai 5 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1554.m3u8
-
-#EXTINF:-1,IT: Rai Scuola
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1794.m3u8
-
-#EXTINF:-1,IT: Rai Premium
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1520.m3u8
-
-#EXTINF:-1,IT: Rai Movie
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1522.m3u8
-
-#EXTINF:-1,IT: Rai Gulp
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1523.m3u8
-
-#EXTINF:-1,IT: Italia 1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/245.m3u8
-
-#EXTINF:-1,IT: Canale 5 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/240.m3u8
-
-#EXTINF:-1,IT: Mediaset Extra
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1439.m3u8
-
-#EXTINF:-1,IT: Rete 4 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/242.m3u8
-
-#EXTINF:-1,IT: Sky Uno HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/813.m3u8
-
-#EXTINF:-1,IT: TG Com 24
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/239.m3u8
-
-#EXTINF:-1,IT: La 5
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1501.m3u8
-
-#EXTINF:-1,IT: La 7 D
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1555.m3u8
-
-#EXTINF:-1,IT: La 7 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1514.m3u8
-
-#EXTINF:-1,IT: TV 8
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2176.m3u8
-
-#EXTINF:-1,IT: Iris HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1517.m3u8
-
-#EXTINF:-1,IT: Sky Cinema 24 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1578.m3u8
-
-#EXTINF:-1,IT: Sky Cinema Suspense
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1574.m3u8
-
-#EXTINF:-1,IT: Sky Cinema Romance
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1580.m3u8
-
-#EXTINF:-1,IT: Sky Cinema 2
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1577.m3u8
-
-#EXTINF:-1,IT: Sky Cinema Family
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1576.m3u8
-
-#EXTINF:-1,IT: Sky Cinema Drama
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1573.m3u8
-
-#EXTINF:-1,IT: Sky Cinema Collection
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1575.m3u8
-
-#EXTINF:-1,IT: Sky Cinema Comedy
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1572.m3u8
-
-#EXTINF:-1,IT: Sky Atlantic HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1581.m3u8
-
-#EXTINF:-1,IT: Premium Cinema HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/247.m3u8
-
-#EXTINF:-1,IT: Premium Crime HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1319.m3u8
-
-#EXTINF:-1,IT: Mediaset 20
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1547.m3u8
-
-#EXTINF:-1,IT: Premium Action HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1426.m3u8
-
-#EXTINF:-1,IT: Premium Cinema Comedy HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1317.m3u8
-
-#EXTINF:-1,IT: Premium Stories
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1320.m3u8
-
-#EXTINF:-1,IT: Premium Cinema Emotion HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1548.m3u8
-
-#EXTINF:-1,IT: Paramount Network
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2175.m3u8
-
-#EXTINF:-1,IT: TOP Crime
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1509.m3u8
-
-#EXTINF:-1,IT: Focus HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1586.m3u8
-
-#EXTINF:-1,IT: Fox HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1585.m3u8
-
-#EXTINF:-1,IT: Canale 5 FHD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2156.m3u8
-
-#EXTINF:-1,IT: Kiss Kiss HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2152.m3u8
-
-#EXTINF:-1,IT: K2
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1470.m3u8
-
-#EXTINF:-1,IT: Discovery Nove
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1510.m3u8
-
-#EXTINF:-1,IT: Radio ZETA
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1504.m3u8
-
-#EXTINF:-1,IT: Radio Italia Tv
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1506.m3u8
-
-#EXTINF:-1,IT: Cine 34
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1458.m3u8
-
-#EXTINF:-1,IT: Virgin
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1511.m3u8
-
-#EXTINF:-1,IT: Discovery Giallo
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1472.m3u8
-
-#EXTINF:-1,IT: Rai YoYo
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/808.m3u8
-
-#EXTINF:-1,IT: R 101
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1465.m3u8
-
-#EXTINF:-1,IT: Super!
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1516.m3u8
-
-#EXTINF:-1,IT: Boing
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1452.m3u8
-
-#EXTINF:-1,IT: Baby TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1473.m3u8
-
-#EXTINF:-1,IT: Italia 2
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1416.m3u8
-
-#EXTINF:-1,IT: Boing Plus
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2155.m3u8
-
-#EXTINF:-1,IT: Zelig
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2172.m3u8
-
-#EXTINF:-1,IT: Deejay TV HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2162.m3u8
-
-#EXTINF:-1,IT: Cartoonito
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2163.m3u8
-
-#EXTINF:-1,IT: Fight Network
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2174.m3u8
-
-#EXTINF:-1,IT: Discovery Real Time HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1505.m3u8
-
-#EXTINF:-1,IT: Sky TG 24
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1595.m3u8
-
-#EXTINF:-1,IT: Discovery MotorTrend
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1457.m3u8
-
-#EXTINF:-1,IT: Spike UHD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1459.m3u8
-
-#EXTINF:-1,IT: Discovery NOVE HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1455.m3u8
-
-#EXTINF:-1,IT: Rai News 24
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1594.m3u8
-
-#EXTINF:-1,IT: VH 1
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1495.m3u8
-
-#EXTINF:-1,IT: Food Network
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1596.m3u8
-
-#EXTINF:-1,IT: National Geographic SD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1476.m3u8
-
-#EXTINF:-1,IT: DMAX
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1798.m3u8
-
-#EXTINF:-1,IT: Nickelodeon
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1460.m3u8
-
-#EXTINF:-1,IT: Discovery HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1461.m3u8
-
-#EXTINF:-1,IT: HG TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4750.m3u8
-
-#EXTINF:-1,IT: National Geographic HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/812.m3u8
-
-#EXTINF:-1,IT: Alice
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1792.m3u8
-
-#EXTINF:-1,IT: Cielo HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/814.m3u8
-
-#EXTINF:-1,IT: Pesca
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2164.m3u8
-
-#EXTINF:-1,AL: Elvis Naci
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4775.m3u8
-
-#EXTINF:-1,AL: KS Islam HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4773.m3u8
-
-#EXTINF:-1,AL: RTV Islam
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4776.m3u8
-
-#EXTINF:-1,AL: RTV Pendimi
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4772.m3u8
-
-#EXTINF:-1,AR: Muslim Unity HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4774.m3u8
-
-#EXTINF:-1,BA: A1 Islam
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4777.m3u8
-
-#EXTINF:-1,TR: Tele 1
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4778.m3u8
-
-#EXTINF:-1,AL: Peace TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1890.m3u8
-
-#EXTINF:-1,BA: TV Igman
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1031.m3u8
-
-#EXTINF:-1,BA: BHT 1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/156.m3u8
-
-#EXTINF:-1,TR: Mekke TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2213.m3u8
-
-#EXTINF:-1,TR: Medine TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2214.m3u8
-
-#EXTINF:-1,------- Srbija
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2924.m3u8
-
-#EXTINF:-1,SR: RTS 2 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/176.m3u8
-
-#EXTINF:-1,SR: RTS 3
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4755.m3u8
-
-#EXTINF:-1,SR: RTRS
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/783.m3u8
-
-#EXTINF:-1,SR: RTRS Plus
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4756.m3u8
-
-#EXTINF:-1,SR: Nova S
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1285.m3u8
-
-#EXTINF:-1,BA: Nova M
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/177.m3u8
-
-#EXTINF:-1,SR: Prva
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/164.m3u8
-
-#EXTINF:-1,SR: Prva Plus
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/597.m3u8
-
-#EXTINF:-1,SR: Prva MAX
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/590.m3u8
-
-#EXTINF:-1,SR: RTV 1 Vojvodina
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/898.m3u8
-
-#EXTINF:-1,SR: RTV Novi Pazar
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/897.m3u8
-
-#EXTINF:-1,SR: O2 TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1296.m3u8
-
-#EXTINF:-1,SR: CNN International
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2039.m3u8
-
-#EXTINF:-1,SR: N1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/785.m3u8
-
-#EXTINF:-1,SR: Happy
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/251.m3u8
-
-#EXTINF:-1,SR: HBO Adria HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/254.m3u8
-
-#EXTINF:-1,SR: HBO 2 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/794.m3u8
-
-#EXTINF:-1,SR: HBO 3 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1941.m3u8
-
-#EXTINF:-1,SR: Cinestar TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/906.m3u8
-
-#EXTINF:-1,HR: Cinemax 1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/904.m3u8
-
-#EXTINF:-1,HR: Cinemax 2 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1095.m3u8
-
-#EXTINF:-1,HR: Cinestar Premiere 1
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/259.m3u8
-
-#EXTINF:-1,HR: Cinestar Premiere 2
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/260.m3u8
-
-#EXTINF:-1,HR: Cinestar Action
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4768.m3u8
-
-#EXTINF:-1,SR: Cinemania
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/802.m3u8
-
-#EXTINF:-1,HR: SciFi
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4771.m3u8
-
-#EXTINF:-1,HR: Fox Movies
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/903.m3u8
-
-#EXTINF:-1,SR: TV 1000
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1293.m3u8
-
-#EXTINF:-1,SR: AXN Adria
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/900.m3u8
-
-#EXTINF:-1,SR: Diva
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4760.m3u8
-
-#EXTINF:-1,HR: Klasik TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/252.m3u8
-
-#EXTINF:-1,HR: FOX
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/255.m3u8
-
-#EXTINF:-1,SR: FOX Life HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/256.m3u8
-
-#EXTINF:-1,SR: FOX Crime
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/257.m3u8
-
-#EXTINF:-1,[[=-=-=-=- Slovenia -=-=-=-=-]]
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2097.m3u8
-
-#EXTINF:-1,SL: Slo 1
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2090.m3u8
-
-#EXTINF:-1,SL: Slo 2
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2091.m3u8
-
-#EXTINF:-1,SL: Pop Kino
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2095.m3u8
-
-#EXTINF:-1,SL: Pop TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2093.m3u8
-
-#EXTINF:-1,-=-=-= [ S P O R T ] =-=-=-
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/15.m3u8
-
-#EXTINF:-1,AL: Super Sport 2 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/16.m3u8
-
-#EXTINF:-1,AL: Super Sport 3 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/17.m3u8
-
-#EXTINF:-1,AL: Super Sport 4 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/18.m3u8
-
-#EXTINF:-1,AL: Super Sport 5 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/577.m3u8
-
-#EXTINF:-1,AL: Tring Sport News HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/188.m3u8
-
-#EXTINF:-1,AL: Tring Sport 1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/191.m3u8
-
-#EXTINF:-1,AL: Tring Sport 2 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/223.m3u8
-
-#EXTINF:-1,AL: Tring Sport 3 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/224.m3u8
-
-#EXTINF:-1,AL: Tring Sport 4 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/538.m3u8
-
-#EXTINF:-1,SR: Arena Sport 1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/29.m3u8
-
-#EXTINF:-1,SR: Arena Sport 2 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/30.m3u8
-
-#EXTINF:-1,SR: Arena Sport 3 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/31.m3u8
-
-#EXTINF:-1,SR: Arena Sport 4 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/32.m3u8
-
-#EXTINF:-1,SR: Arena Sport 5 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/33.m3u8
-
-#EXTINF:-1,HR: Planet Sport 1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/3509.m3u8
-
-#EXTINF:-1,HR: Planet Sport 2 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/3510.m3u8
-
-#EXTINF:-1,HR: Arena Sport 1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/803.m3u8
-
-#EXTINF:-1,HR: Arena Sport 2 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/804.m3u8
-
-#EXTINF:-1,HR: Arena Sport 3 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/805.m3u8
-
-#EXTINF:-1,HR: Arena Sport 4 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/806.m3u8
-
-#EXTINF:-1,HR: Arena Sport 5 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/807.m3u8
-
-#EXTINF:-1,SR: Sport Klub HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2068.m3u8
-
-#EXTINF:-1,SR: Sport Klub 1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1022.m3u8
-
-#EXTINF:-1,SE: Viasat Sport Sverige
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/3603.m3u8
-
-#EXTINF:-1,SR: Sport Klub 2 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1023.m3u8
-
-#EXTINF:-1,SR: Sport Klub 3 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1024.m3u8
-
-#EXTINF:-1,SR: Sport Klub 1
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/86.m3u8
-
-#EXTINF:-1,SR: Sport Klub 2
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/87.m3u8
-
-#EXTINF:-1,SR: Sport Klub 3
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/88.m3u8
-
-#EXTINF:-1,SR: Sport Klub 4
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2102.m3u8
-
-#EXTINF:-1,SR: Sport Klub 5
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2103.m3u8
-
-#EXTINF:-1,SR: Eurosport 1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2071.m3u8
-
-#EXTINF:-1,SR: Eurosport 2 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2072.m3u8
-
-#EXTINF:-1,SR: Eurosport 1
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/89.m3u8
-
-#EXTINF:-1,SR: Eurosport 2
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/90.m3u8
-
-#EXTINF:-1,HR: Sportska TV
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1028.m3u8
-
-#EXTINF:-1,BG: Diema Sport 1
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/929.m3u8
-
-#EXTINF:-1,BG: Diema Sport 2
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/930.m3u8
-
-#EXTINF:-1,BG: Nova Sport
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/967.m3u8
-
-#EXTINF:-1,DE: Eurosport 1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2074.m3u8
-
-#EXTINF:-1,DE: Eurosport 2 HD XTRA
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2311.m3u8
-
-#EXTINF:-1,DE: Sport 1
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4843.m3u8
-
-#EXTINF:-1,DE: Sky Sport News
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/566.m3u8
-
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1322.m3u8
-
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/48.m3u8
-
-#EXTINF:-1,DE: Sky Sport 3
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2177.m3u8
-
-#EXTINF:-1,DE: Sky Sport 4
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2178.m3u8
-
-#EXTINF:-1,DE: Sky Sport 5
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2179.m3u8
-
-#EXTINF:-1,DE: Sky Sport 6
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2180.m3u8
-
-#EXTINF:-1,DE: Sky Sport 7
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2181.m3u8
-
-#EXTINF:-1,DE: Sky Sport 8
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2182.m3u8
-
-#EXTINF:-1,DE: Sky Sport 9
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2183.m3u8
-
-#EXTINF:-1,DE: Sky Bundesliga 1 FHD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/49.m3u8
-
-#EXTINF:-1,DE: Sky Bundesliga 2 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/924.m3u8
-
-#EXTINF:-1,DE: Sky Bundesliga 3
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/925.m3u8
-
-#EXTINF:-1,DE: Sky Bundesliga 4
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/926.m3u8
-
-#EXTINF:-1,IT: Sky Sport Moto GP
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1564.m3u8
-
-#EXTINF:-1,IT: Sky Sport 24 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2168.m3u8
-
-#EXTINF:-1,IT: Sky Sport 1 FHD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1560.m3u8
-
-#EXTINF:-1,IT: Sky Sport Arena
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1565.m3u8
-
-#EXTINF:-1,IT: Sky Sport NBA
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1563.m3u8
-
-#EXTINF:-1,IT: Mondo Calcio
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2167.m3u8
-
-#EXTINF:-1,IT: Sky Sport 24
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1562.m3u8
-
-#EXTINF:-1,IT: Sky Calcio 1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1571.m3u8
-
-#EXTINF:-1,IT: Sky Calcio 2 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1570.m3u8
-
-#EXTINF:-1,IT: DAZN 1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4844.m3u8
-
-#EXTINF:-1,IT: DAZN 2 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/4845.m3u8
-
-#EXTINF:-1,IT: Sky Sport serie A HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1561.m3u8
-
-#EXTINF:-1,IT: Sky Sport Serie A
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1800.m3u8
-
-#EXTINF:-1,IT: Italian Fishing
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1450.m3u8
-
-#EXTINF:-1,IT: Bike Channel
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/2151.m3u8
-
-#EXTINF:-1,IT: Sport Italia
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1789.m3u8
-
-#EXTINF:-1,IT: Supertennis HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1466.m3u8
-
-#EXTINF:-1,IT: Rai Sport+ HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1508.m3u8
-
-#EXTINF:-1,IT: Eurosport 1 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1440.m3u8
-
-#EXTINF:-1,IT: Eurosport 2 HD
-http://tidotv.com:80/live/bgIwwjFfmn/zcwd04GXE1/1441.m3u8
-
-#EXTINF:-1,Friends S08 E23
-http://tidotv.com:80/series/bgIwwjFfmn/zcwd04GXE1/3048.avi
-
-#EXTINF:-1,The Witcher S01 E07
-http://tidotv.com:80/series/bgIwwjFfmn/zcwd04GXE1/5778.mkv
+#EXTINF:-1,Al:Super Sport Kosova 2
+http://linux-app.tv:6204/60400655844704/32991126026152/33308
