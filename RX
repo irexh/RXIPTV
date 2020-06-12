@@ -1,15 +1,41 @@
+#EXTM3U
+#EXTINF:-1,Albania: AlbUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+
+#EXTINF:-1,Albania: EUROAL
 http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
+
+#EXTINF:-1,Albania: News 24
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+
+#EXTINF:-1,Albania: News 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+
+#EXTINF:-1,Albania: Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
+
+#EXTINF:-1,Albania: RTSH 1 HD
 http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
+
+#EXTINF:-1,Albania: RTSH 1 HD
 http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8
+
+#EXTINF:-1,Albania: RTSH 24
 http://79.106.48.2/live/rtsh_24_ott_p3/playlist.m3u8
+
+#EXTINF:-1,Albania: RTSH Shqip
 http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
+
+#EXTINF:-1,Albania: RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+
+#EXTINF:-1,Albania: TV Boin
 http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
+
+#EXTINF:-1,Albania: TV7
 http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8
+
+#EXTINF:-1,Albania: Zjarr TV
 http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
 
 #EXTINF:-1,Italy: 51 Radio TV
