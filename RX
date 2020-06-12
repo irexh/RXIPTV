@@ -290,7 +290,6 @@ http://linux-app.tv:6204/60400655844704/32991126026152/33307
 #EXTINF:-1,Al:Super Sport Kosova 2
 http://linux-app.tv:6204/60400655844704/32991126026152/33308
 
-#EXTM3U
 #EXTINF:-1,Italy: 51 Radio TV
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 
