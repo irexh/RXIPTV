@@ -1,49 +1,101 @@
 #EXTM3U
-#EXTINF:-1,|B SD| beIN SPORTS 1 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2247.m3u8
-#EXTINF:-1,|B SD| beIN SPORTS 2 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2248.m3u8
-#EXTINF:-1,|B SD| beIN SPORTS 3 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2249.m3u8
-#EXTINF:-1,|B SD| beIN SPORTS 4 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2250.m3u8
-#EXTINF:-1,|B SD| beIN SPORTS 5 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2251.m3u8
-#EXTINF:-1,|B SD| beIN SPORTS 6 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2252.m3u8
-#EXTINF:-1,|B SD| beIN SPORTS 7 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2253.m3u8
-#EXTINF:-1,|B SD| beIN SPORTS 8 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2254.m3u8
-#EXTINF:-1,|B SD| beIN SPORTS 9 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2255.m3u8
-#EXTINF:-1,|B SD| beIN SPORTS 10 SD
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2256.m3u8
-#EXTINF:-1,|B Low| beIN SPORTS 1 Low
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2258.m3u8
-#EXTINF:-1,|B Low| beIN SPORTS 2 Low
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2259.m3u8
-#EXTINF:-1,|B Low| beIN SPORTS 3 Low
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2260.m3u8
-#EXTINF:-1,|B Low| beIN SPORTS 4 Low
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2261.m3u8
-#EXTINF:-1,|B Low| beIN SPORTS 5 Low
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2262.m3u8
-#EXTINF:-1,|B Low| beIN SPORTS 6 Low
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2263.m3u8
-#EXTINF:-1,|B Low| beIN SPORTS 7 Low
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2264.m3u8
-#EXTINF:-1,|B Low| beIN SPORTS 8 Low
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2265.m3u8
-#EXTINF:-1,|B Low| beIN SPORTS 9 Low
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2266.m3u8
-#EXTINF:-1,|B Low| beIN SPORTS 10 Low
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/2267.m3u8
-#EXTINF:-1,|AR| Time Sports
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/16515.m3u8
-#EXTINF:-1,|AR| AlAhly TV
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/16516.m3u8
-#EXTINF:-1,|AR| Zamalek Club
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/16519.m3u8
-#EXTINF:-1,|AR| Time Sport
-http://136.243.10.163:8080/live/admin_jspEGB/MFNqBABP/16520.m3u8
+#EXTINF:-1,SPORTS VIP | Fight Channel 5
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5412
+#EXTINF:-1,SPORTS VIP | FightBox FHD
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/12383
+#EXTINF:-1,SPORTS VIP | FightBox HD
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/12382
+#EXTINF:-1,SPORTS VIP | Liverpool FC TV FHD
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5425
+#EXTINF:-1,SPORTS VIP | Real Madrid
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5402
+#EXTINF:-1,SPORTS VIP | Ziggo Sport Votball
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5392
+#EXTINF:-1,SPORTS VIP | VIASAT Fotboll
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5422
+#EXTINF:-1,SPORTS VIP | Viasat Hockey
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5417
+#EXTINF:-1,SPORTS VIP | Viasat Sport Premium
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5418
+#EXTINF:-1,SPORTS VIP | Viasat Golf SE
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5421
+#EXTINF:-1,SPORTS VIP | Sky Sports Golf FHD
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5396
+#EXTINF:-1,SPORTS | Sky Sports Cricket FHD
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5438
+#EXTINF:-1,SPORTS VIP | Sky Sport Austria 1 FHD
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5394
+#EXTINF:-1,SPORTS VIP | Sky Sport Austria 2 FHD
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5393
+#EXTINF:-1,SPORTS VIP | SPORTS FHD US
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5391
+#EXTINF:-1,SPORTS | SPORTS HD NEWS
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/676904
+#EXTINF:-1,SPORTS | SPORTS 1
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5482
+#EXTINF:-1,SPORTS | SPORTS 2
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5481
+#EXTINF:-1,SPORTS | SPORTS 3
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5480
+#EXTINF:-1,SPORTS | SPORTS 4
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5479
+#EXTINF:-1,SPORTS | SPORTS 5
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5478
+#EXTINF:-1,SPORTS | SPORTS 6
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/54777
+#EXTINF:-1,SPORTS | SPORTS 7
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5476
+#EXTINF:-1,SPORTS | SPORTS 8
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/53432
+#EXTINF:-1,SPORTS | SPORTS 9
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5474
+#EXTINF:-1,SPORTS | SPORTS 10
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5473
+#EXTINF:-1,SPORTS | SPORTS 11
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/667466
+#EXTINF:-1,SPORTS | SPORTS 12
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/54715
+#EXTINF:-1,SPORTS | SPORTS 13
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/663994
+#EXTINF:-1,SPORTS | SPORTS MAX 4
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5470
+#EXTINF:-1,SPORTS | SPORTS MAX 5
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/53604
+#EXTINF:-1,SPORTS | SPORTS MAX 6
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/625242
+#EXTINF:-1,SPORTS | SPORTS MAX 7
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/54678
+#EXTINF:-1,SPORTS | SPORTS MAX 8
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5466
+#EXTINF:-1,SPORTS | Digi Sport 1 FHD
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5454
+#EXTINF:-1,SPORTS | Digi Sport 2
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5453
+#EXTINF:-1,SPORTS | Digi Sport 3
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5452
+#EXTINF:-1,SPORTS | GEO Super
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5434
+#EXTINF:-1,SPORTS | Smart Sport 1 HD
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5446
+#EXTINF:-1,SPORTS | Sony Six
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5436
+#EXTINF:-1,SPORTS | SPORT KLUB HD 1
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/625227
+#EXTINF:-1,SPORTS | SPORT KLUB HD 2
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/7088
+#EXTINF:-1,SPORTS | SPORT KLUB HD 3
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/7087
+#EXTINF:-1,SPORTS | Sport Klub 1 HD
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/53164
+#EXTINF:-1,SPORTS | Sport Klub 2 FHD
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5444
+#EXTINF:-1,SPORTS | Sport Klub 3 HD
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5443
+#EXTINF:-1,SPORTS | Sport TV1 FHD PT
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5442
+#EXTINF:-1,SPORTS | Sport TV2 FHD PT
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5441
+#EXTINF:-1,SPORTS | Sport TV3 FHD PT 
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5440
+#EXTINF:-1,SPORTS | Tivibuspor
+http://mytv.fun:8080/o31hxx9289/bb7k6on87c/5439
