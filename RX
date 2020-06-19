@@ -20,47 +20,47 @@ http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8?checkedby:iptvcat.c
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/gfdZq6D.jpg" group-title="Shqipëri",TV Dielli
 http://51.15.180.159:8081/play/hls/dielli/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A1 Report
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Shqipëri",A1 Report
 http://s1.mekon.in:8880/bktsiptvcom/w1ELI8YccV/182967?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/YaOhPf6.jpg" group-title="Undefined",ABC News,AL | ABC News
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/YaOhPf6.jpg" group-title="Shqipëri",ABC News,AL | ABC News
 http://176.31.74.164:8081/abcnewslive/abcnews/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/GAx0LDU.png" group-title="Undefined",AL | Ora News,Ora News
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/GAx0LDU.png" group-title="Shqipëri",AL | Ora News,Ora News
 https://tv.oranews.tv/live/oranews/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Undefined",AlbUK TV
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Shqipëri",AlbUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",KLAN HD
 http://s1.mekon.in:8880/bktsiptvcom/w1ELI8YccV/182962?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/AJ472ot.png" group-title="Undefined",Koha TV
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/AJ472ot.png" group-title="Shqipëri",Koha TV
 rtmp://live.tvkoha.tv:1935/live/koha/livestream?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News",News 24
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Shqipëri",News 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News",News 24
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Shqipëri",News 24
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/CAM3f2n.png" group-title="Undefined",News 24
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/CAM3f2n.png" group-title="Shqipëri",News 24
 https://tv.balkanweb.com/news24/livestream/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ORA News HD
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Shqipëri",ORA News HD
 http://s1.mekon.in:8880/bktsiptvcom/w1ELI8YccV/182965?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/l8Z9BRE.png" group-title="Undefined",Peace TV
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/l8Z9BRE.png" group-title="Shqipëri",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/j6fL4vc.png" group-title="Undefined",RTSH 1 HD
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/j6fL4vc.png" group-title="Shqipëri",RTSH 1 HD
 http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/j6fL4vc.png" group-title="Undefined",RTSH 1 HD
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/j6fL4vc.png" group-title="Shqipëri",RTSH 1 HD
 http://79.106.48.2/live/rtsh_1ott/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/zlYvCID.png" group-title="News",RTSH 24
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/zlYvCID.png" group-title="Shqipëri",RTSH 24
 http://79.106.48.2/live/rtsh_24_ott_p3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/dvqV5C1.png" group-title="Undefined",RTSH Film
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/dvqV5C1.png" group-title="Shqipëri",RTSH Film
 https://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/UHG6Rve.png" group-title="Undefined",RTSH Shqip
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/UHG6Rve.png" group-title="Shqipëri",RTSH Shqip
 http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="http://127.0.0.1/" group-title="Sport",RTSH Sport
+#EXTINF:0 tvg-country="AL" tvg-logo="http://127.0.0.1/" group-title="Shqipëri",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",RTV SHARJI
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/61144?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/WHlCDVH.png" group-title="Undefined",TV Boin
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/WHlCDVH.png" group-title="Shqipëri",TV Boin
 http://tva.fastbroad.com/i/tvboin_1@380599/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/WHlCDVH.png" group-title="Undefined",TV Boin
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/WHlCDVH.png" group-title="Shqipëri",TV Boin
 http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="Undefined",TV7
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="Shqipëri",TV7
 http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/UValLp1.png" group-title="Undefined",Zjarr TV
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/UValLp1.png" group-title="Shqipëri",Zjarr TV
 http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8?checkedby:iptvcat.com
