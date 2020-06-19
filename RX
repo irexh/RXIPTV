@@ -64,6 +64,7 @@ http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8?checkedby:ipt
 http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/UValLp1.png" group-title="Undefined",Zjarr TV
 http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8?checkedby:iptvcat.com
+#Group:0 Italia
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Music;Undefined",(ONLINE) M2o Tv,M2O TV,m2o TV (Music)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",111tv
