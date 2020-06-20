@@ -2,30 +2,43 @@
 #PLAYLIST:iptvcat.com
 #EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Shqipëri",RTK 1 HD
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Shqipëri",RTK 1 HD
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Shqipëri",RTK 3
 http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Shqipëri",RTK 4
 http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/chunklist_w599618358.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/qYPQaYf.png" group-title="Shqipëri",Rrokum,Rrokum TV HD
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/gfdZq6D.jpg" group-title="Shqipëri",TV Dielli
 http://51.15.180.159:8081/play/hls/dielli/index.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Shqipëri",A1 Report
 http://s1.mekon.in:8880/bktsiptvcom/w1ELI8YccV/182967?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/YaOhPf6.jpg" group-title="Shqipëri",ABC News,AL | ABC News
 http://176.31.74.164:8081/abcnewslive/abcnews/chunks.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/GAx0LDU.png" group-title="Shqipëri",AL | Ora News,Ora News
 https://tv.oranews.tv/live/oranews/index.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Shqipëri",AlbUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",KLAN HD
 http://s1.mekon.in:8880/bktsiptvcom/w1ELI8YccV/182962?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/AJ472ot.png" group-title="Shqipëri",Koha TV
 rtmp://live.tvkoha.tv:1935/live/koha/livestream?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Shqipëri",News 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Shqipëri",News 24
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/CAM3f2n.png" group-title="Shqipëri",News 24
@@ -46,7 +59,7 @@ https://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8?checkedby:iptvcat.com
 http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AL" tvg-logo="http://127.0.0.1/" group-title="Shqipëri",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",RTV SHARJI
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Shqipëri",RTV SHARRI
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/61144?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/WHlCDVH.png" group-title="Shqipëri",TV Boin
 http://tva.fastbroad.com/i/tvboin_1@380599/master.m3u8?checkedby:iptvcat.com
@@ -57,57 +70,57 @@ http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8?checked
 #EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/UValLp1.png" group-title="Shqipëri",Zjarr TV
 http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Music;Undefined",(ONLINE) M2o Tv,M2O TV,m2o TV (Music)
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",(ONLINE) M2o Tv,M2O TV,m2o TV (Music)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",111tv
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",111tv
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59614?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",20 Mediaset
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",20 Mediaset
 http://s1.mekon.in:8880/bktsiptvcom/w1ELI8YccV/183699?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",51 Radio TV
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",51 Radio TV
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59615?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="Undefined",51 Radio TV
+#EXTINF:0 tvg-country="IT" tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="Italy",51 Radio TV
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",ALICE
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",ALICE
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59616?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Alto Adige TV
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",Alto Adige TV
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59617?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Antenna Sud
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",Antenna Sud
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59618?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/2kNV88y.png" group-title="Undefined",Antenna Sud
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/2kNV88y.png" group-title="Italy",Antenna Sud
 http://wms.shared.streamshow.it/antennasud/antennasud/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Antenna Tre
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",Antenna Tre
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59619?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/Y1Yq3iV.png" group-title="Undefined",Aurora Arte
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/Y1Yq3iV.png" group-title="Italy",Aurora Arte
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Azzurra TV
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",Azzurra TV
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59620?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="http://www.vcoazzurratv.it/images/1_tg_loghi/logo_vcoazzurratv_old_03.png" group-title="Undefined",Azzurra TV
+#EXTINF:0 tvg-country="IT" tvg-logo="http://www.vcoazzurratv.it/images/1_tg_loghi/logo_vcoazzurratv_old_03.png" group-title="Italy",Azzurra TV
 https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Baby Tv
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",Baby Tv
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59537?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Blaze HD
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",Blaze HD
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59621?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Boing
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",Boing
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59538?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Boing Plus
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",Boing Plus
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59539?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CACCIA e Pesca
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",CACCIA e Pesca
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59622?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 21
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",CANALE 21
 http://212.38.189.9:25461/live/colin/colin/73850.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",CANALE 5 HD
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",CANALE 5 HD
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59627?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Caf
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",Caf
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59623?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="http://www.jennigandolfi.com/wp-content/uploads/2018/04/LOGO-CAFETV24-2018_01_12-15_26_50-UTC.png" group-title="Undefined",CafèTV24
+#EXTINF:0 tvg-country="IT" tvg-logo="http://www.jennigandolfi.com/wp-content/uploads/2018/04/LOGO-CAFETV24-2018_01_12-15_26_50-UTC.png" group-title="Italy",CafèTV24
 http://srv3.meway.tv:1957/cafe/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Canale 10
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",Canale 10
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59625?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="Undefined",Canale 2 Altamura
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="Italy",Canale 2 Altamura
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="Undefined",Canale 2 Altamura
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="Italy",Canale 2 Altamura
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="Undefined",Canale 2 Altamura,IT | Canale 2 Altamura
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="Italy",Canale 2 Altamura,IT | Canale 2 Altamura
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",Canale 2 Altamura
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59626?checkedby:iptvcat.com
