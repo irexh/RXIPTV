@@ -101,7 +101,7 @@ http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTV 21
 http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8129?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTV 21 Junior
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Fëmijë",RTV 21 Junior
 http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8131?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTV 21 Maqedoni
@@ -194,7 +194,7 @@ http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8226?checkedby:iptvcat.
 #EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Smile
 http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8319?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Sofia HD
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Fëmijë",Sofia HD
 http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8317?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sport",Sport Kosova 1 HD
