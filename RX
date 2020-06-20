@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Fëmijë",Bang Bang
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8200?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Fëmijë",Cufo TV
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8193?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Fëmijë",Boomerang
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8195?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Living HD
 http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8267?checkedby:iptvcat.com
 
