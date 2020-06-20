@@ -119,7 +119,7 @@ http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8256?checkedby:iptvcat.
 #EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Rtsh Muzike
 http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8250?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Rtsh Sport
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sport",Rtsh Sport
 http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8247?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",SKY AKSION
@@ -191,6 +191,9 @@ http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8317?checkedby:iptvcat.
 #EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sport",Sport Kosova 1 HD
 http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8314?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sport",Sport Kosova 5 HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8293?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sport",Sport Kosova 2 HD
 http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8313?checkedby:iptvcat.com
 
@@ -206,7 +209,7 @@ http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8228?checkedby:iptvcat.
 #EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sport",Super Sport 2 HD
 http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8312?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sort",Super Sport 3 HD
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sport",Super Sport 3 HD
 http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8309?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sport",Super Sport 4 HD
