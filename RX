@@ -399,122 +399,116 @@ https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptv
 #EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/uO0QUzi.png" group-title="Slovenija",TV SLOVENIJA 3
 https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9156.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 1 FHD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 1 FHD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/32146.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 1 FHD HEVC BEIN SPORTS group-title="Ar BEIN"
-http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/28265.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1,.AR.: BEIN SPORTS 1 HD group-title="Ar BEIN"
-http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9131.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1,.AR.: BEIN SPORTS 1 SD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 1 SD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/32015.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 10 FHD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 10 FHD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9151.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 10 FHD HEVC group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 10 FHD HEVC
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/39226.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 10 SD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 10 SD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/32006.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 11 HD EN group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 11 HD EN
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9153.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 2 FHD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 2 FHD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9135.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 2 FHD HEVC group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 2 FHD HEVC
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/28266.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 2 HD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 2 HD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9134.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 2 SD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 2 SD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/32014.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 3 FHD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" group-title="Ar BEIN" BEIN SPORTS 3 FHD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9137.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 3 FHD HEVC group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 3 FHD HEVC
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/28267.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 3 HD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 3 HD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9136.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 3 SD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 3 SD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/32013.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 4 FHD HEVC group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 4 FHD HEVC
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/28268.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 4 HD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 4 HD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9138.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 4 SD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 4 SD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/32012.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 5 FHD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 5 FHD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9141.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 5 FHD HEVC group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 5 FHD HEVC
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/28269.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 5 HD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 5 HD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9140.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 5 SD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 5 SD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/32011.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 6 FHD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 6 FHD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9143.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 6 FHD HEVC group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 6 FHD HEVC
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/28270.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 6 HD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 6 HD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9142.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 6 SD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 6 SD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/32010.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 7 FHD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 7 FHD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9145.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 7 FHD HEVC group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 7 FHD HEVC
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/28271.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 7 SD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 7 SD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/32009.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 8 FHD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 8 FHD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9147.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 8 FHD HEVC group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 8 FHD HEVC
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/39224.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 8 HD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 8 HD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9146.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 8 SD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 8 SD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/32008.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 9 FHD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 9 FHD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9149.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 9 FHD HEVC group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 9 FHD HEVC
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/39225.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 9 HD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 9 HD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9148.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS 9 SD group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS 9 SD
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/32007.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1,.AR.: BEIN SPORTS NEWS group-title="Ar BEIN"
+#EXTINF:-1,.AR.: group-title="Ar BEIN" BEIN SPORTS NEWS
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9152.m3u8?checkedby:iptvcat.com
