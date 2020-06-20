@@ -80,6 +80,7 @@ http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8?checkedby:ipt
 
 #EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="Shqipëri",TV7
 http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/UValLp1.png" group-title="Shqipëri",Zjarr TV
 http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8?checkedby:iptvcat.com
 
@@ -232,6 +233,7 @@ http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59637?chec
 
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",DeeJay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",DeeJay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8?checkedby:iptvcat.com
 
@@ -334,7 +336,7 @@ http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3
 #EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/f7RTt0R.jpg" group-title="Italy",IT | TV Luna,TV Luna
 http://live.sloode.com:1935/teleluna/live/chunklist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",ITALIA 1 HD
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",ITALIA 1 HD
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/59649?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/nWBWzNy.png" group-title="Italy",Icaro TV
