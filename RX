@@ -1,91 +1,279 @@
 #EXTM3U
-#PLAYLIST:iptvcat.com
-#EXTINF:0 tvg-country="XK" tvg-logo="https://sport-tv-guide.live/images/tv-station-k-sport-2-1856.png" group-title="Sport",Kujtesa2
-http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8296?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Living HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8267?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Shqipëri",RTK 1 HD
-http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",MTV KOSOVA
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8266?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Shqipëri",RTK 1 HD
-http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",My Music
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8265?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Shqipëri",RTK 3
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",National Geographic
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8264?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Shqipëri",RTK 4
-http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/chunklist_w599618358.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/qYPQaYf.png" group-title="Shqipëri",Rrokum,Rrokum TV HD
-http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/gfdZq6D.jpg" group-title="Shqipëri",TV Dielli
-http://51.15.180.159:8081/play/hls/dielli/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Shqipëri",A1 Report
-http://s1.mekon.in:8880/bktsiptvcom/w1ELI8YccV/182967?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/YaOhPf6.jpg" group-title="Shqipëri",ABC News,AL | ABC News
-http://176.31.74.164:8081/abcnewslive/abcnews/chunks.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/GAx0LDU.png" group-title="Shqipëri",AL | Ora News,Ora News
-https://tv.oranews.tv/live/oranews/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Shqipëri",AlbUK TV
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Shqipëri",KLAN HD
-http://s1.mekon.in:8880/bktsiptvcom/w1ELI8YccV/182962?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/AJ472ot.png" group-title="Shqipëri",Koha TV
-rtmp://live.tvkoha.tv:1935/live/koha/livestream?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Shqipëri",News 24
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="Shqipëri",News 24
-http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/CAM3f2n.png" group-title="Shqipëri",News 24
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",News 24
 https://tv.balkanweb.com/news24/livestream/chunks.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Shqipëri",ORA News HD
-http://s1.mekon.in:8880/bktsiptvcom/w1ELI8YccV/182965?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",ON TV
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8262?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/l8Z9BRE.png" group-title="Shqipëri",Peace TV
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Ora News HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8261?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/j6fL4vc.png" group-title="Shqipëri",RTSH 1 HD
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Peace Tv
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8260?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Plus HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8259?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTK 1
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8122?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTK 2
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8127?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTK 3
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8123?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTK 4
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8124?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTSH 1 HD
 http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/j6fL4vc.png" group-title="Shqipëri",RTSH 1 HD
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTSH 1 HD
 http://79.106.48.2/live/rtsh_1ott/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/zlYvCID.png" group-title="Shqipëri",RTSH 24
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTSH 1 HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8125?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTSH 2 HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8126?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTSH 24
 http://79.106.48.2/live/rtsh_24_ott_p3/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/dvqV5C1.png" group-title="Shqipëri",RTSH Film
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTSH 24 HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8255?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTSH 3 HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8128?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTSH Femije
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8254?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTSH Film
 https://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/UHG6Rve.png" group-title="Shqipëri",RTSH Shqip
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTSH GJIROKASTRA
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8253?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTSH KORÇA
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8251?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTSH KUVEND
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8252?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTSH SAT HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8249?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTSH SHQIP
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8248?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTSH Shqip
 http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AL" tvg-logo="http://127.0.0.1/" group-title="Shqipëri",RTSH Sport
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Shqipëri",RTV SHARRI
-http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/61144?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTV 21
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8129?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/WHlCDVH.png" group-title="Shqipëri",TV Boin
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTV 21 Junior
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8131?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTV 21 Maqedoni
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8130?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTV 21 Plus FHD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8134?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTV 21 Popullore
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8132?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTV 21 Toksor
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8133?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTV ALDI
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8244?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Report TV
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8258?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Rrokum HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8256?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Rtsh Muzike
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8250?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Rtsh Sport
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8247?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",SKY AKSION
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8225?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",SKY COMEDY
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8227?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",SKY DRAMA
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8224?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",SKY HISTORY
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8223?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",SKY MAX
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8222?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",SKY PLANET
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8320?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",ShqipTV Aksion HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8241?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",ShqipTV Cinema HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8240?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",ShqipTV Drama HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8245?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",ShqipTV Fantasy HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8238?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",ShqipTV Film HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8237?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",ShqipTV Folk HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8239?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",ShqipTV Hindi HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8236?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",ShqipTV Horror HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8235?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",ShqipTV Jeta HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8234?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",ShqipTV Komedi HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8233?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",ShqipTV Mimi HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8232?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",ShqipTV Stupcat HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8230?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",ShqipTV Tom & Jerry HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8229?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",ShqipTV Western HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8226?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Smile
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8319?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Sofia HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8317?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sport",Sport Kosova 1 HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8314?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sport",Sport Kosova 2 HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8313?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sport",Sport Kosova News HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8316?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Stupcat HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8315?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sport",Super Folk
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8228?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sport",Super Sport 2 HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8312?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sort",Super Sport 3 HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8309?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sport",Super Sport 4 HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8311?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sport",Super Sport 5 HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8308?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sport",Super Sport 6 HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8307?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sport",Super Sport News HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8310?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Sport",SuperSport 3
+http://s2.mytvxweb.me:25461/bella1/bella1/331638?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Supersonic
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8289?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",T HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8288?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",T7 HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8287?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",TOP Channel
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8140?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",TOP Estrada
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8283?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",TURBO Channel
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8281?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",TV Boin
 http://tva.fastbroad.com/i/tvboin_1@380599/master.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/WHlCDVH.png" group-title="Shqipëri",TV Boin
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",TV Boin
 http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="Shqipëri",TV7
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",TV Dibra
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8279?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",TV Kopliku HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8277?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",TV Uksana
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8276?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",TV Vali
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8275?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",TV7
 http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/UValLp1.png" group-title="Shqipëri",Zjarr TV
-http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",TVSH
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8274?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Tip TV
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8286?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Tirana TV
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8285?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",Top News HD
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8282?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",(ONLINE) M2o Tv,M2O TV,m2o TV (Music)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?checkedby:iptvcat.com
