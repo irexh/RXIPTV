@@ -1,28 +1,28 @@
 #EXTM3U
 
 
-#EXTINF:0,Super Sport Kosova 1
+#EXTINF:0, group-title="Sport",Super Sport Kosova 1
 http-user-agent=ycftghiojkmnbuvygft75rt7y98ui
 http://163.172.216.63:8000/live/supersportkosova1/Mjd9nTgDF3/1.ts
-#EXTINF:0,Super Sport Kosova 2
+#EXTINF:0, group-title="Sport",Super Sport Kosova 2
 http-user-agent=cdrtfyguhijnolmjnkbhugvtyfdrf75gyi
 http://163.172.216.63:8000/live/supersportkosova2/ae4wyqwI5j/2.ts
-#EXTINF:0,Super Sport 1 HD
+#EXTINF:0, group-title="Sport",Super Sport 1 HD
 http-user-agent=r6df76g8yhiuojuibuvgycfrtxe5
 http://163.172.216.63:8000/live/supersport1/48owQzv6Ha/3.ts
-#EXTINF:0,Super Sport 2 HD
+#EXTINF:0, group-title="Sport",Super Sport 2 HD
 http-user-agent=cdtryfg8huionjh gvuyt
 http://163.172.216.63:8000/live/supersport2/lj96qHEUe4/4.ts
-#EXTINF:0,Super Sport 3 HD
+#EXTINF:0, group-title="Sport",Super Sport 3 HD
 http-user-agent=21343546yrtefd
 http://163.172.216.63:8000/live/supersport3/baeDNpRYfD/5.ts
-#EXTINF:0,Super Sport 4 HD
+#EXTINF:0, group-title="Sport",Super Sport 4 HD
 http-user-agent=de5r6ft7gy8hiunjbhuvtf7
 http://163.172.216.63:8000/live/supersport4/cPpCMNAb7x/6.ts
-#EXTINF:0,Super Sport 5
+#EXTINF:0, group-title="Sport",Super Sport 5
 #EXTVLCOPT:http-user-agent=dr6ft7gy8huinojbhuvty
 http://163.172.216.63:8000/live/supersport5/9A5f2S7Wzd/7.ts
-#EXTINF:0,Super Sport 6
+#EXTINF:0, group-title="Sport",Super Sport 6
 http-user-agent=rtfygyhiujonbhvguycfr
 http://163.172.216.63:8000/live/supersport6/QVnhA9XB3T/8.ts
 
