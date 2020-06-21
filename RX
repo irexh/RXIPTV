@@ -1214,3 +1214,23 @@ http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/99648.m3u8?checkedby:iptvcat
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN-9 SD
 
 
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 2
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/680.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 3
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/678.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 4
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/676.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 5
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/674.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 6
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/672.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 7
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/670.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 8
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/668.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 9
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/666.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS 9HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/667.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN SPORTS HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/1885.m3u8?checkedby:iptvcat.com
