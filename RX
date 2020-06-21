@@ -1214,27 +1214,3 @@ http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/99648.m3u8?checkedby:iptvcat
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Sport",BEIN-9 SD
 
 
-
-#EXTINF:-1,[COLOR yellow]--- SPORTS 1 ---[/COLOR]
-http://0.0.6.0:1234
-#EXTINF:-1, group-title="Sport",ARABIC-BAHRAIN SPORTS
-rtmp://alayam.netromedia.net/btv3/btv3
-#EXTINF:-1, group-title="Sport",ARABIC-BEIN SPORT 1
-rtmp://$OPT:rtmp-raw=rtmp://95.168.199.245:1935/live playpath=bns1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
-#EXTINF:-1, group-title="Sport",ARABIC-BEIN SPORT 2
-rtmp://$OPT:rtmp-raw=rtmp://95.168.199.245:1935/live playpath=bns2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
-#EXTINF:-1, group-title="Sport",ARABIC-beIN Sport 2
-http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport2/sport2/sport2.m3u8?rRb545vJBB5tYzB7vVP
-#EXTINF:-1, group-title="Sport",ARABIC-BEIN SPORT 3
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=bns3 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
-#EXTINF:-1, group-title="Sport",ARABIC-beIN Sport 3
-http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport3/sport3/sport3.m3u8?rRb545vJBB5tYzB7vVP
-#EXTINF:-1, group-title="Sport",ARABIC-beIN Sport 4
-http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport4/sport4/sport4.m3u8?rRb545vJBB5tYzB7vVP
-#EXTINF:-1, group-title="Sport",ARABIC-beIN Sport 5
-http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport5/sport5/sport5.m3u8?rRb545vJBB5tYzB7vVP
-#EXTINF:-1, group-title="Sport",ARABIC-beIN Sport 6
-http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8?rRb545vJBB5tYzB7vVP
-#EXTINF:-1, group-title="Sport",ARABIC-BEIN SPORT 7
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bns7 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
-
