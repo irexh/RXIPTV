@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:0 group-title="Albania",Alb UK
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Albania",AlbUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8?checkedby:iptvcat.com
-
 
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Italy",(ONLINE) M2o Tv,M2O TV,m2o TV (Music)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?checkedby:iptvcat.com
