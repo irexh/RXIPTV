@@ -39,7 +39,7 @@ http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8260?checkedby:iptvcat.
 http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8259?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTK 1
-176.31.74.161:8081/live/rtk1/playlist.m3u8
+http:/:ww.rtklive.com/sq/livestream/rtk1/
 
 #EXTINF:0 tvg-country="XK" tvg-logo="" group-title="Shqipëri",RTK 2
 http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/8127?checkedby:iptvcat.com
