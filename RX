@@ -634,3 +634,6 @@ http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/32007
 
 #EXTINF:-1,.AR.: BEIN SPORTS NEWS
 http://tvpro.millenium-ott.com:25443/live/00:1A:79:07:F1:26/DZA028JOCJESJZ/9152.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, MOVIES group-title="Movies",
+https://pastebin.com/raw/jbqA0j82
