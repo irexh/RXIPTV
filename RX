@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Albania",AlbUK TV
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Albania",Rex
-https://tv.balkanweb.com/news24/livestream/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,AL: group-title="Filma",Film Nje HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2534.ts
-#EXTINF:-1,AL: group-title="Filma",Film Komedi
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2535.ts
-#EXTINF:-1,AL: group-title="Filma",Film Hits Plus 1
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2536.ts
-#EXTINF:-1,AL: group-title="Filma",Film Hits
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2537.ts
-#EXTINF:-1,AL: group-title="Filma",Film Dy HD
-http://iptvswarbejo.dyndns.tv:80/live/maxspeed/maxspeed/2538.ts
+http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/80291.m3u8?checkedby:iptvcat.com
 
 
 
