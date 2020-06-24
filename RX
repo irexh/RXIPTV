@@ -4,6 +4,8 @@ http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/80291.m3u8?checkedby:iptvcat
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Femije",Art Kino 3
 http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/80292.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Filma",Digi Gold 1
+http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/80222.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 1HD
 http://hv-iptv.ml:88/Xuxul/kyuTulHvX5/8232?checkedby:iptvcat.com
